@@ -30,7 +30,8 @@
 
 <!-- PROJECT -->
 ## Project
-[![nda111](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=nda111&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/nda111)
+[![MNIST_GAN](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=MNIST_GAN&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/MNIST_GAN)
+[![spark](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=spark&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/spark)
 
 <!-- CONTACT -->
 ## Contact
