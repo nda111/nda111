@@ -38,4 +38,18 @@
 </div>
 
 <!-- COLORS -->
-### Colors
+## Colors
+### Header
+![#9584DB](https://via.placeholder.com/15/9584DB/000000?text=+) `#9584DB, Background`
+![#EBE6FF](https://via.placeholder.com/15/EBE6FF/000000?text=+) `#EBE6FF, Font`
+
+### Hit
+![#595961](https://via.placeholder.com/15/595961/000000?text=+) `#595961, Title Background`
+![#8B87FA](https://via.placeholder.com/15/8B87FA/000000?text=+) `#8B87FA, Count Background`
+![#010101](https://via.placeholder.com/15/010101/000000?text=+) `#010101, Text`
+
+### Card
+![#F9F7FF](https://via.placeholder.com/15/9584DB/000000?text=+) `#F9F7FF, Background`
+![#D7D2EA](https://via.placeholder.com/15/D7D2EA/000000?text=+) `#D7D2EA, Border`
+![#9584DB](https://via.placeholder.com/15/9584DB/000000?text=+) `#9584DB, Title`
+![#453D66](https://via.placeholder.com/15/453D66/000000?text=+) `#453D66, Text`
