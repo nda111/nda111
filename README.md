@@ -15,5 +15,14 @@
 ![CS](https://img.shields.io/badge/CSHARP-512BD4.svg?&style=for-the-badge&logo=DOTNET&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![TORCH](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
-  
-<div>
+
+<!-- PROJECT -->
+## Project
+
+<!-- CONTACT -->
+## Contact
+
+</div>
+
+<!-- COLORS -->
+### Colors
