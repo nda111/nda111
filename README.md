@@ -26,9 +26,14 @@
 
 <!-- PROJECT -->
 ## Project
+[![nda111](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=nda111&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/nda111)
 
 <!-- CONTACT -->
 ## Contact
+[![NAVER](https://img.shields.io/badge/NAVER%20MAIL-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white)](mailto:nda111@naver.com)
+[![GMAIL](https://img.shields.io/badge/GMAIL-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:geunhyeok0111@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKED%20IN-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/근혁-유-1247ba21b/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/nda111)
 
 </div>
 
