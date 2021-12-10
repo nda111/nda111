@@ -11,6 +11,8 @@
 |![](https://github-readme-stats.vercel.app/api?username=nda111&&custom_title=Geunhyeok's%20GitHub%20Stats&show_icons=true&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&icon_color=453D66&disable_animations=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=nda111&langs_count=3&hide=javascript,html,tex,kotlin&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D6)|
 |-|-|
 
+<br />
+
 <!-- SYMBOLS -->
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![CS](https://img.shields.io/badge/CSHARP-512BD4.svg?&style=for-the-badge&logo=DOTNET&logoColor=white)
@@ -24,6 +26,8 @@
 ![HEROKU](https://img.shields.io/badge/HEROKU-430098.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![SPARK](https://img.shields.io/badge/APACHE%20SPARK-E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white)
 
+<br />
+
 <!-- PROJECT -->
 ## Project
 [![nda111](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=nda111&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/nda111)
@@ -36,6 +40,8 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/nda111)
 
 </div>
+
+<br />
 
 <!-- COLORS -->
 ## Colors
