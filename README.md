@@ -12,9 +12,17 @@
 |-|-|
 
 <!-- SYMBOLS -->
-![CS](https://img.shields.io/badge/CSHARP-512BD4.svg?&style=for-the-badge&logo=DOTNET&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![CS](https://img.shields.io/badge/CSHARP-512BD4.svg?&style=for-the-badge&logo=DOTNET&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![TORCH](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
+![ANDROID](https://img.shields.io/badge/ANDROID-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white)
+![BLAZOR](https://img.shields.io/badge/BLAZOR-512BD4.svg?&style=for-the-badge&logo=blazor&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![HEROKU](https://img.shields.io/badge/HEROKU-430098.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![SPARK](https://img.shields.io/badge/APACHE%20SPARK-E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white)
 
 <!-- PROJECT -->
 ## Project
