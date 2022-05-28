@@ -30,8 +30,8 @@
 
 <!-- PROJECT -->
 ## Project
-[![MNIST_GAN](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=MNIST_GAN&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/MNIST_GAN)
-[![spark](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=spark&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/spark)
+[![PointNet](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=PointNet&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/PointNet)
+[![MNIST_CGAN](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=MNIST_CGAN&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/MNIST_CGAN)
 
 <!-- CONTACT -->
 ## Contact
