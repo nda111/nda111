@@ -31,7 +31,7 @@
 <!-- PROJECT -->
 ## Project
 [![PointNet](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=PointNet&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/PointNet)
-[![MNIST_CGAN](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=MNIST_CGAN&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/MNIST_CGAN)
+[![DeepAttention](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=DeepAttention&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/DeepAttention)
 
 <!-- CONTACT -->
 ## Contact
@@ -47,16 +47,16 @@
 <!-- COLORS -->
 ## Colors
 ### Header
-![#9584DB](https://via.placeholder.com/15/9584DB/000000?text=+) `#9584DB, Background`
-![#EBE6FF](https://via.placeholder.com/15/EBE6FF/000000?text=+) `#EBE6FF, Font`
+![#9584DB](https://via.placeholder.com/15/9584DB/9584DB.png) `#9584DB, Background`
+![#EBE6FF](https://via.placeholder.com/15/EBE6FF/EBE6FF.png) `#EBE6FF, Font`
 
 ### Hit
-![#595961](https://via.placeholder.com/15/595961/000000?text=+) `#595961, Title Background`
-![#8B87FA](https://via.placeholder.com/15/8B87FA/000000?text=+) `#8B87FA, Count Background`
-![#010101](https://via.placeholder.com/15/010101/000000?text=+) `#010101, Text`
+![#595961](https://via.placeholder.com/15/595961/595961.png) `#595961, Title Background`
+![#8B87FA](https://via.placeholder.com/15/8B87FA/8B87FA.png) `#8B87FA, Count Background`
+![#010101](https://via.placeholder.com/15/010101/010101.png) `#010101, Text`
 
 ### Card
-![#F9F7FF](https://via.placeholder.com/15/9584DB/000000?text=+) `#F9F7FF, Background`
-![#D7D2EA](https://via.placeholder.com/15/D7D2EA/000000?text=+) `#D7D2EA, Border`
-![#9584DB](https://via.placeholder.com/15/9584DB/000000?text=+) `#9584DB, Title`
-![#453D66](https://via.placeholder.com/15/453D66/000000?text=+) `#453D66, Text`
+![#F9F7FF](https://via.placeholder.com/15/F9F7FF/F9F7FF.png) `#F9F7FF, Background`
+![#D7D2EA](https://via.placeholder.com/15/D7D2EA/D7D2EA.png) `#D7D2EA, Border`
+![#9584DB](https://via.placeholder.com/15/9584DB/9584DB.png) `#9584DB, Title`
+![#453D66](https://via.placeholder.com/15/453D66/453D66.png) `#453D66, Text`
