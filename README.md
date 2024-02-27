@@ -7,11 +7,17 @@
 
 <!-- CURRENT TOPICS -->
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS
 |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nda111&&custom_title=Geunhyeok's%20GitHub%20Stats&show_icons=true&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&icon_color=453D66&disable_animations=true)|![Popular Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nda111&langs_count=3&hide=javascript,html,tex,kotlin&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D6)|
-|-|-|
+|-|-| -->
 
 <br />
+
+<!-- PROJECT -->
+## Project
+[![A2XP](https://github-readme-stats.vercel.app/api/pin/?username=AIRLABkhu&repo=A2XP&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/AIRLABkhu/A2XP)
+[![Decision-BADGE](https://github-readme-stats.vercel.app/api/pin/?username=AIRLABkhu&repo=Decision-BADGE&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/AIRLABkhu/Decision-BADGE))
+[![DeepAttention](https://github-readme-stats.vercel.app/api/pin/?username=AIRLABkhu&repo=Decision-BADGE&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/AIRLABkhu/Decision-BADGE)
 
 <!-- SYMBOLS -->
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -20,6 +26,7 @@
 ![KOTLIN](https://img.shields.io/badge/KOTLIN-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![TORCH](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/ANDROID-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white)
+
 ![BLAZOR](https://img.shields.io/badge/BLAZOR-512BD4.svg?&style=for-the-badge&logo=blazor&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,16 +35,11 @@
 
 <br />
 
-<!-- PROJECT -->
-## Project
-[![PointNet](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=PointNet&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/PointNet)
-[![DeepAttention](https://github-readme-stats.vercel.app/api/pin/?username=nda111&repo=DeepAttention&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/nda111/DeepAttention)
-
 <!-- CONTACT -->
 ## Contact
-[![NAVER](https://img.shields.io/badge/NAVER%20MAIL-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white)](mailto:nda111@naver.com)
 [![GMAIL](https://img.shields.io/badge/GMAIL-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:geunhyeok0111@gmail.com)
-[![LINKEDIN](https://img.shields.io/badge/LINKED%20IN-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/근혁-유-1247ba21b/)
+[![NAVER](https://img.shields.io/badge/NAVER%20MAIL-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white)](mailto:nda111@naver.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKED%20IN-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geunhyeok-yu-1247ba21b/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/nda111)
 
 </div>
