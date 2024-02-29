@@ -14,11 +14,14 @@
 <br />
 
 <!-- PROJECT -->
-## Project
+## Research Projects
 [![A2XP](https://github-readme-stats.vercel.app/api/pin/?username=AIRLABkhu&repo=A2XP&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/AIRLABkhu/A2XP)
 [![Decision-BADGE](https://github-readme-stats.vercel.app/api/pin/?username=AIRLABkhu&repo=Decision-BADGE&bg_color=F9F7FF&border_color=D7D2EA&title_color=9584DB&text_color=453D66&)](https://github.com/AIRLABkhu/Decision-BADGE))
 
+<br />
+
 <!-- SYMBOLS -->
+## Skills
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![CS](https://img.shields.io/badge/CSHARP-512BD4.svg?&style=for-the-badge&logo=DOTNET&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=java&logoColor=white)
