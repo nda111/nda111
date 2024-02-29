@@ -1,7 +1,7 @@
 <div align=center>
 
 <!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Deep%20GH%20Hub&fontAlignY=40&desc=:%20Geunhyeok's%20open%20archive%20for%20research%20:&descAlign=50&color=9584DB&fontColor=EBE6FF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Deep%20GH%20Hub&fontAlignY=40&desc=:%20Geunhyeok's%20open%20archive%20for%20research%20works%20:&descAlign=50&color=9584DB&fontColor=EBE6FF&animation=fadeIn)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnda111%2Fhit-counter&count_bg=%238B87FA&title_bg=%23595961&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
